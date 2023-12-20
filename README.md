@@ -12,21 +12,6 @@ StopwatchWeb is a straightforward and user-friendly online stopwatch for trackin
 - **Responsive Design:** Accessible on desktops, laptops, tablets, and mobiles.
 - **No Installation Required:** Use the stopwatch directly from your web browser.
 
-## Getting Started:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/StopwatchWeb.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd StopwatchWeb
-   ```
-
-3. **Open the Project:**
-   - Open the `index.html` file in your preferred web browser.
-
 ## Usage:
 
 - **Start the Stopwatch:**
